@@ -1,6 +1,4 @@
 # Signature Forgery Detection Documentation
-## Video Explaination of the Project : [YouTube Link](https://youtu.be/Lr-kdXCNXko) 
-
 ## Overview
 
 The provided code implements a signature forgery detection system using a neural network. The system processes signature images, extracts various features from them, and then trains a neural network to distinguish between genuine and forged signatures. The features include ratio, centroid, eccentricity, solidity, skewness, and kurtosis.
